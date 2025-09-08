@@ -1,0 +1,10 @@
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+    color: midnightblue;
+    background-color: paleturquoise;
+    padding: 10px;
+    text-align: center;
+}
